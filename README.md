@@ -1,6 +1,7 @@
 # free-for.dev
 Изменение 1 для branch1
 Изменение 2 для branch1
+Изменение 3 для branch1
 Developers and Open Source authors now have many services offering free tiers, but finding them all takes time to make informed decisions.
 
 This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings with free developer tiers.
